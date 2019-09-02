@@ -1,0 +1,1667 @@
+Polarity†: 0.0979
+
+Subjectivity‡: 0.44857
+
+## Most Common Noun Phrases in Genesis:
+
+ * 198	-  god
+ * 180	-  jacob
+ * 157	-  joseph
+ * 141	-  lord
+ * 131	-  abraham
+ * 94	-  pharaoh
+ * 80	-  isaac
+ * 77	-  egypt
+ * 68	-  esau
+ * 56	-  abram
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Exodus (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.09393
+
+Subjectivity‡: 0.46083
+
+## Most Common Noun Phrases in Exodus:
+
+ * 388	-  lord
+ * 289	-  moses
+ * 169	-  israel
+ * 149	-  thou shalt
+ * 122	-  egypt
+ * 115	-  pharaoh
+ * 115	-  aaron
+ * 104	-  god
+ * 53	-  egyptians
+ * 37	-  thou
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Leviticus (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.12279
+
+Subjectivity‡: 0.47063
+
+## Most Common Noun Phrases in Leviticus:
+
+ * 311	-  lord
+ * 86	-  moses
+ * 80	-  aaron
+ * 65	-  israel
+ * 59	-  sin offering
+ * 53	-  god
+ * 48	-  burnt offering
+ * 37	-  thou shalt
+ * 36	-  spake unto
+ * 29	-  ye
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Numbers (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.13448
+
+Subjectivity‡: 0.41549
+
+## Most Common Noun Phrases in Numbers:
+
+ * 396	-  lord
+ * 236	-  israel
+ * 234	-  moses
+ * 99	-  aaron
+ * 67	-  spake unto
+ * 60	-  levites
+ * 53	-  balaam
+ * 49	-  meat offering
+ * 40	-  balak
+ * 38	-  thou shalt
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Deuteronomy (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.05715
+
+Subjectivity‡: 0.53007
+
+## Most Common Noun Phrases in Deuteronomy:
+
+ * 540	-  lord
+ * 347	-  god
+ * 164	-  thou shalt
+ * 73	-  thou
+ * 72	-  israel
+ * 50	-  egypt
+ * 38	-  moses
+ * 36	-  shalt thou
+ * 28	-  giveth thee
+ * 27	-  thy gates
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Joshua (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.09488
+
+Subjectivity‡: 0.44918
+
+## Most Common Noun Phrases in Joshua:
+
+ * 209	-  lord
+ * 167	-  joshua
+ * 156	-  israel
+ * 70	-  jordan
+ * 56	-  moses
+ * 55	-  god
+ * 42	-  manasseh
+ * 33	-  ai
+ * 29	-  jericho
+ * 24	-  judah
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Judges (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.0497
+
+Subjectivity‡: 0.47396
+
+## Most Common Noun Phrases in Judges:
+
+ * 183	-  israel
+ * 164	-  lord
+ * 45	-  god
+ * 41	-  benjamin
+ * 40	-  abimelech
+ * 39	-  gideon
+ * 38	-  samson
+ * 34	-  philistines
+ * 28	-  jephthah
+ * 27	-  ammon
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Ruth (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.08071
+
+Subjectivity‡: 0.40919
+
+## Most Common Noun Phrases in Ruth:
+
+ * 20	-  naomi
+ * 20	-  boaz
+ * 17	-  lord
+ * 12	-  ruth
+ * 8	-  moab
+ * 6	-  thou hast
+ * 5	-  elimelech
+ * 5	-  bethlehem
+ * 5	-  moabitess
+ * 5	-  young men
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 1 samuel (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.09437
+
+Subjectivity‡: 0.52487
+
+## Most Common Noun Phrases in 1 samuel:
+
+ * 313	-  lord
+ * 290	-  david
+ * 287	-  saul
+ * 146	-  israel
+ * 131	-  samuel
+ * 120	-  philistines
+ * 86	-  god
+ * 70	-  jonathan
+ * 37	-  behold
+ * 32	-  eli
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 2 samuel (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.10964
+
+Subjectivity‡: 0.52709
+
+## Most Common Noun Phrases in 2 samuel:
+
+ * 280	-  david
+ * 141	-  lord
+ * 116	-  israel
+ * 102	-  absalom
+ * 100	-  joab
+ * 65	-  god
+ * 62	-  saul
+ * 45	-  abner
+ * 30	-  judah
+ * 30	-  jerusalem
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 1 kings (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.06526
+
+Subjectivity‡: 0.48437
+
+## Most Common Noun Phrases in 1 kings:
+
+ * 236	-  lord
+ * 203	-  israel
+ * 156	-  solomon
+ * 78	-  david
+ * 69	-  god
+ * 55	-  jeroboam
+ * 50	-  ahab
+ * 42	-  judah
+ * 42	-  elijah
+ * 29	-  thou hast
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 2 kings (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.04832
+
+Subjectivity‡: 0.47379
+
+## Most Common Noun Phrases in 2 kings:
+
+ * 267	-  lord
+ * 162	-  israel
+ * 90	-  judah
+ * 67	-  god
+ * 63	-  jerusalem
+ * 55	-  elisha
+ * 49	-  samaria
+ * 48	-  assyria
+ * 44	-  hezekiah
+ * 41	-  jehu
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 1 chronicles (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.17214
+
+Subjectivity‡: 0.43133
+
+## Most Common Noun Phrases in 1 chronicles:
+
+ * 186	-  david
+ * 156	-  lord
+ * 114	-  israel
+ * 97	-  god
+ * 35	-  levites
+ * 29	-  philistines
+ * 28	-  saul
+ * 25	-  judah
+ * 24	-  joab
+ * 24	-  jerusalem
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 2 chronicles (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.13901
+
+Subjectivity‡: 0.45606
+
+## Most Common Noun Phrases in 2 chronicles:
+
+ * 335	-  lord
+ * 187	-  israel
+ * 161	-  judah
+ * 137	-  god
+ * 127	-  jerusalem
+ * 85	-  solomon
+ * 74	-  david
+ * 62	-  levites
+ * 49	-  lord god
+ * 41	-  jehoshaphat
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+
+
+
+
+
+# NLP Analysis for Ezra (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.20825
+
+Subjectivity‡: 0.46081
+
+## Most Common Noun Phrases in Ezra:
+
+ * 87	-  god
+ * 48	-  jerusalem
+ * 40	-  israel
+ * 27	-  lord
+ * 21	-  levites
+ * 15	-  cyrus
+ * 15	-  judah
+ * 15	-  babylon
+ * 13	-  persia
+ * 13	-  ezra
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Nehemiah (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.13047
+
+Subjectivity‡: 0.4684
+
+## Most Common Noun Phrases in Nehemiah:
+
+ * 74	-  god
+ * 43	-  levites
+ * 38	-  jerusalem
+ * 28	-  judah
+ * 22	-  israel
+ * 20	-  lord
+ * 17	-  jeshua
+ * 14	-  tobiah
+ * 13	-  meshullam
+ * 12	-  ezra
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Esther (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.19798
+
+Subjectivity‡: 0.46412
+
+## Most Common Noun Phrases in Esther:
+
+ * 57	-  mordecai
+ * 55	-  esther
+ * 52	-  haman
+ * 45	-  jews
+ * 29	-  ahasuerus
+ * 19	-  shushan
+ * 11	-  king 's gate
+ * 10	-  vashti
+ * 8	-  king 's commandment
+ * 8	-  jew
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Job (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.08929
+
+Subjectivity‡: 0.56122
+
+## Most Common Noun Phrases in Job:
+
+ * 114	-  god
+ * 55	-  job
+ * 34	-  behold
+ * 33	-  lord
+ * 31	-  almighty
+ * 23	-  thou
+ * 20	-  who
+ * 14	-  satan
+ * 14	-  hast
+ * 13	-  thou hast
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Psalms (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.11684
+
+Subjectivity‡: 0.56751
+
+## Most Common Noun Phrases in Psalms:
+
+ * 704	-  lord
+ * 419	-  god
+ * 113	-  thou
+ * 102	-  thou hast
+ * 71	-  selah
+ * 61	-  israel
+ * 39	-  praise
+ * 37	-  zion
+ * 37	-  unto thee
+ * 34	-  jacob
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Proverbs (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.13935
+
+Subjectivity‡: 0.65209
+
+## Most Common Noun Phrases in Proverbs:
+
+ * 87	-  lord
+ * 19	-  whoso
+ * 15	-  thine heart
+ * 8	-  god
+ * 8	-  be
+ * 8	-  lest
+ * 8	-  own soul
+ * 7	-  who
+ * 7	-  strange woman
+ * 7	-  hear
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Ecclesiastes (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.18487
+
+Subjectivity‡: 0.60073
+
+## Most Common Noun Phrases in Ecclesiastes:
+
+ * 40	-  god
+ * 5	-  jerusalem
+ * 5	-  wise man
+ * 5	-  be
+ * 4	-  yea
+ * 4	-  wisdom
+ * 4	-  thou knowest
+ * 3	-  preacher
+ * 3	-  profit hath
+ * 3	-  mine heart
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Song of solomon (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.38107
+
+Subjectivity‡: 0.69068
+
+## Most Common Noun Phrases in Song of solomon:
+
+ * 11	-  thy
+ * 8	-  jerusalem
+ * 7	-  solomon
+ * 7	-  lebanon
+ * 5	-  soul loveth
+ * 5	-  thou art fair
+ * 4	-  behold
+ * 4	-  thou
+ * 3	-  o thou fairest
+ * 3	-  young hart
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Isaiah (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.06479
+
+Subjectivity‡: 0.5192
+
+## Most Common Noun Phrases in Isaiah:
+
+ * 427	-  lord
+ * 122	-  god
+ * 92	-  israel
+ * 61	-  behold
+ * 49	-  jerusalem
+ * 47	-  zion
+ * 42	-  jacob
+ * 41	-  egypt
+ * 38	-  thou shalt
+ * 34	-  assyria
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Jeremiah (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.01186
+
+Subjectivity‡: 0.54335
+
+## Most Common Noun Phrases in Jeremiah:
+
+ * 701	-  lord
+ * 183	-  judah
+ * 169	-  babylon
+ * 131	-  jeremiah
+ * 125	-  israel
+ * 118	-  god
+ * 108	-  jerusalem
+ * 84	-  behold
+ * 60	-  egypt
+ * 48	-  zedekiah
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Lamentations (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.02235
+
+Subjectivity‡: 0.50377
+
+## Most Common Noun Phrases in Lamentations:
+
+ * 44	-  lord
+ * 15	-  zion
+ * 12	-  thou hast
+ * 9	-  thou
+ * 7	-  jerusalem
+ * 5	-  judah
+ * 5	-  young men
+ * 4	-  o daughter
+ * 3	-  pleasant things
+ * 3	-  fierce anger
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Ezekiel (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.08577
+
+Subjectivity‡: 0.4763
+
+## Most Common Noun Phrases in Ezekiel:
+
+ * 254	-  god
+ * 220	-  lord
+ * 186	-  israel
+ * 67	-  thou shalt
+ * 49	-  behold
+ * 48	-  egypt
+ * 47	-  thou hast
+ * 37	-  thou
+ * 25	-  jerusalem
+ * 22	-  unto thee
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Daniel (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.2021
+
+Subjectivity‡: 0.51416
+
+## Most Common Noun Phrases in Daniel:
+
+ * 74	-  daniel
+ * 58	-  god
+ * 30	-  nebuchadnezzar
+ * 22	-  o king
+ * 16	-  babylon
+ * 16	-  interpretation thereof
+ * 15	-  shadrach
+ * 15	-  meshach
+ * 15	-  abednego
+ * 12	-  wise men
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Hosea (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.15827
+
+Subjectivity‡: 0.51279
+
+## Most Common Noun Phrases in Hosea:
+
+ * 46	-  lord
+ * 43	-  israel
+ * 37	-  ephraim
+ * 28	-  god
+ * 15	-  judah
+ * 13	-  egypt
+ * 6	-  thou shalt
+ * 6	-  thou hast
+ * 6	-  samaria
+ * 5	-  jezreel
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Joel (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.14009
+
+Subjectivity‡: 0.56762
+
+## Most Common Noun Phrases in Joel:
+
+ * 33	-  lord
+ * 11	-  god
+ * 7	-  zion
+ * 6	-  jerusalem
+ * 6	-  judah
+ * 3	-  new wine
+ * 3	-  meat offering
+ * 3	-  be
+ * 3	-  israel
+ * 2	-  old men
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+
+
+
+
+
+# NLP Analysis for Amos (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.03167
+
+Subjectivity‡: 0.55388
+
+## Most Common Noun Phrases in Amos:
+
+ * 63	-  lord
+ * 31	-  god
+ * 30	-  israel
+ * 8	-  punishment thereof
+ * 7	-  amos
+ * 7	-  egypt
+ * 7	-  bethel
+ * 6	-  jacob
+ * 5	-  edom
+ * 5	-  behold
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Obadiah (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.0976
+
+Subjectivity‡: 0.55123
+
+## Most Common Noun Phrases in Obadiah:
+
+ * 7	-  esau
+ * 6	-  lord
+ * 4	-  shouldest thou
+ * 3	-  jacob
+ * 2	-  edom
+ * 2	-  thy brother
+ * 2	-  jerusalem
+ * 2	-  thou shouldest
+ * 2	-  zion
+ * 1	-  obadiah
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Jonah (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.01269
+
+Subjectivity‡: 0.63222
+
+## Most Common Noun Phrases in Jonah:
+
+ * 25	-  lord
+ * 18	-  jonah
+ * 14	-  god
+ * 9	-  nineveh
+ * 4	-  great city
+ * 4	-  tarshish
+ * 3	-  beseech thee
+ * 2	-  arise
+ * 2	-  cast lots
+ * 2	-  dry land
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Micah (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.06848
+
+Subjectivity‡: 0.56412
+
+## Most Common Noun Phrases in Micah:
+
+ * 40	-  lord
+ * 12	-  god
+ * 12	-  israel
+ * 11	-  jacob
+ * 9	-  zion
+ * 8	-  jerusalem
+ * 8	-  thou shalt
+ * 5	-  hear
+ * 4	-  judah
+ * 3	-  samaria
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Nahum (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.06374
+
+Subjectivity‡: 0.53241
+
+## Most Common Noun Phrases in Nahum:
+
+ * 13	-  lord
+ * 4	-  behold
+ * 3	-  nineveh
+ * 2	-  utter end
+ * 2	-  young lions
+ * 2	-  devour thy
+ * 2	-  thou
+ * 2	-  thy people
+ * 2	-  thy
+ * 1	-  nahum
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Habakkuk (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.00211
+
+Subjectivity‡: 0.59749
+
+## Most Common Noun Phrases in Habakkuk:
+
+ * 12	-  lord
+ * 8	-  thou
+ * 5	-  woe
+ * 4	-  behold
+ * 4	-  god
+ * 3	-  thou hast
+ * 3	-  shall
+ * 3	-  selah
+ * 2	-  habakkuk
+ * 2	-  thou wilt
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Zephaniah (using the KJV translation)
+
+## Sentiment
+
+Polarity†: -0.00858
+
+Subjectivity‡: 0.49489
+
+## Most Common Noun Phrases in Zephaniah:
+
+ * 33	-  lord
+ * 5	-  god
+ * 4	-  jerusalem
+ * 4	-  israel
+ * 3	-  judah
+ * 2	-  fierce anger
+ * 2	-  's anger
+ * 2	-  ashkelon
+ * 2	-  woe
+ * 2	-  sea coast
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Haggai (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.08975
+
+Subjectivity‡: 0.37383
+
+## Most Common Noun Phrases in Haggai:
+
+ * 35	-  lord
+ * 9	-  haggai
+ * 7	-  zerubbabel
+ * 5	-  shealtiel
+ * 5	-  joshua
+ * 5	-  josedech
+ * 5	-  high priest
+ * 5	-  twentieth day
+ * 4	-  judah
+ * 3	-  darius
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Zechariah (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.11049
+
+Subjectivity‡: 0.49009
+
+## Most Common Noun Phrases in Zechariah:
+
+ * 134	-  lord
+ * 41	-  jerusalem
+ * 22	-  judah
+ * 11	-  god
+ * 8	-  zion
+ * 7	-  behold
+ * 6	-  mine eyes
+ * 6	-  hosts hath
+ * 6	-  joshua
+ * 6	-  david
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Malachi (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.08926
+
+Subjectivity‡: 0.61711
+
+## Most Common Noun Phrases in Malachi:
+
+ * 49	-  lord
+ * 8	-  god
+ * 6	-  wherein
+ * 5	-  israel
+ * 5	-  ye
+ * 4	-  behold
+ * 3	-  jacob
+ * 3	-  levi
+ * 3	-  judah
+ * 2	-  jerusalem
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Matthew (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.11271
+
+Subjectivity‡: 0.52774
+
+## Most Common Noun Phrases in Matthew:
+
+ * 169	-  jesus
+ * 57	-  god
+ * 44	-  father
+ * 33	-  saith unto
+ * 29	-  pharisees
+ * 26	-  thou
+ * 25	-  john
+ * 23	-  peter
+ * 23	-  verily
+ * 21	-  ye
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Mark (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.10726
+
+Subjectivity‡: 0.49347
+
+## Most Common Noun Phrases in Mark:
+
+ * 95	-  jesus
+ * 52	-  god
+ * 35	-  saith unto
+ * 26	-  john
+ * 19	-  peter
+ * 15	-  james
+ * 14	-  chief priests
+ * 12	-  galilee
+ * 12	-  pharisees
+ * 11	-  jerusalem
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Luke (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.13125
+
+Subjectivity‡: 0.50194
+
+## Most Common Noun Phrases in Luke:
+
+ * 126	-  god
+ * 99	-  jesus
+ * 33	-  jerusalem
+ * 30	-  john
+ * 21	-  pharisees
+ * 20	-  father
+ * 19	-  peter
+ * 16	-  mary
+ * 16	-  thou
+ * 16	-  simon
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for John (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.11761
+
+Subjectivity‡: 0.51719
+
+## Most Common Noun Phrases in John:
+
+ * 252	-  jesus
+ * 122	-  father
+ * 83	-  god
+ * 79	-  saith unto
+ * 66	-  jews
+ * 25	-  verily
+ * 23	-  thou hast
+ * 23	-  ye
+ * 21	-  pilate
+ * 20	-  john
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+
+
+
+
+
+# NLP Analysis for Acts (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.1565
+
+Subjectivity‡: 0.51631
+
+## Most Common Noun Phrases in Acts:
+
+ * 168	-  god
+ * 132	-  paul
+ * 70	-  jews
+ * 59	-  jerusalem
+ * 58	-  peter
+ * 49	-  jesus
+ * 42	-  ghost
+ * 30	-  gentiles
+ * 24	-  barnabas
+ * 24	-  saul
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Romans (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.16125
+
+Subjectivity‡: 0.58137
+
+## Most Common Noun Phrases in Romans:
+
+ * 163	-  god
+ * 35	-  christ
+ * 27	-  jesus christ
+ * 24	-  gentiles
+ * 21	-  spirit
+ * 13	-  who
+ * 12	-  thou
+ * 12	-  israel
+ * 9	-  abraham
+ * 8	-  jew
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 1 corinthians (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.13959
+
+Subjectivity‡: 0.5295
+
+## Most Common Noun Phrases in 1 corinthians:
+
+ * 106	-  god
+ * 47	-  christ
+ * 18	-  spirit
+ * 17	-  jesus christ
+ * 10	-  wherefore
+ * 7	-  paul
+ * 7	-  apollos
+ * 7	-  jews
+ * 6	-  know
+ * 5	-  christ jesus
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 2 corinthians (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.16326
+
+Subjectivity‡: 0.56079
+
+## Most Common Noun Phrases in 2 corinthians:
+
+ * 73	-  god
+ * 38	-  christ
+ * 10	-  jesus christ
+ * 9	-  jesus
+ * 9	-  titus
+ * 8	-  macedonia
+ * 7	-  wherefore
+ * 6	-  spirit
+ * 5	-  father
+ * 5	-  who
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Galatians (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.15461
+
+Subjectivity‡: 0.55426
+
+## Most Common Noun Phrases in Galatians:
+
+ * 33	-  god
+ * 25	-  christ
+ * 16	-  spirit
+ * 11	-  jesus christ
+ * 9	-  abraham
+ * 7	-  gentiles
+ * 6	-  jews
+ * 5	-  jerusalem
+ * 5	-  peter
+ * 5	-  christ jesus
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Ephesians (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.18064
+
+Subjectivity‡: 0.56647
+
+## Most Common Noun Phrases in Ephesians:
+
+ * 33	-  god
+ * 27	-  christ
+ * 12	-  jesus christ
+ * 12	-  spirit
+ * 8	-  father
+ * 8	-  wherefore
+ * 7	-  christ jesus
+ * 5	-  gentiles
+ * 3	-  be
+ * 2	-  paul
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Philippians (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.28354
+
+Subjectivity‡: 0.56104
+
+## Most Common Noun Phrases in Philippians:
+
+ * 22	-  god
+ * 18	-  christ
+ * 11	-  jesus christ
+ * 9	-  christ jesus
+ * 6	-  whatsoever things
+ * 3	-  father
+ * 2	-  timotheus
+ * 2	-  spirit
+ * 2	-  who
+ * 2	-  jesus
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Colossians (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.16458
+
+Subjectivity‡: 0.54229
+
+## Most Common Noun Phrases in Colossians:
+
+ * 22	-  god
+ * 20	-  christ
+ * 6	-  father
+ * 4	-  who
+ * 4	-  laodicea
+ * 3	-  paul
+ * 3	-  jesus christ
+ * 3	-  christ jesus
+ * 2	-  grace
+ * 2	-  epaphras
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 1 thessalonians (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.31086
+
+Subjectivity‡: 0.56878
+
+## Most Common Noun Phrases in 1 thessalonians:
+
+ * 38	-  god
+ * 9	-  jesus christ
+ * 6	-  jesus
+ * 5	-  father
+ * 4	-  wherefore
+ * 3	-  timotheus
+ * 3	-  macedonia
+ * 3	-  christ
+ * 2	-  paul
+ * 2	-  ghost
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 2 thessalonians (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.2181
+
+Subjectivity‡: 0.6704
+
+## Most Common Noun Phrases in 2 thessalonians:
+
+ * 19	-  god
+ * 11	-  jesus christ
+ * 3	-  father
+ * 2	-  paul
+ * 2	-  who
+ * 2	-  christ
+ * 1	-  silvanus
+ * 1	-  timotheus
+ * 1	-  thessalonians
+ * 1	-  grace
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 1 timothy (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.29466
+
+Subjectivity‡: 0.61237
+
+## Most Common Noun Phrases in 1 timothy:
+
+ * 22	-  god
+ * 8	-  jesus christ
+ * 6	-  christ jesus
+ * 4	-  who
+ * 4	-  good works
+ * 3	-  saviour
+ * 3	-  amen
+ * 3	-  unto thee
+ * 3	-  own house
+ * 3	-  thou shalt
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 2 timothy (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.21034
+
+Subjectivity‡: 0.60231
+
+## Most Common Noun Phrases in 2 timothy:
+
+ * 15	-  god
+ * 8	-  christ jesus
+ * 5	-  jesus christ
+ * 5	-  thou hast
+ * 2	-  grace
+ * 2	-  who
+ * 2	-  gentiles
+ * 2	-  thou knowest
+ * 2	-  onesiphorus
+ * 2	-  ephesus
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Titus (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.23675
+
+Subjectivity‡: 0.57799
+
+## Most Common Noun Phrases in Titus:
+
+ * 13	-  god
+ * 5	-  saviour
+ * 4	-  good works
+ * 3	-  jesus christ
+ * 2	-  eternal life
+ * 2	-  grace
+ * 2	-  sound doctrine
+ * 1	-  paul
+ * 1	-  due times
+ * 1	-  titus
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Philemon (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.45866
+
+Subjectivity‡: 0.62673
+
+## Most Common Noun Phrases in Philemon:
+
+ * 4	-  jesus christ
+ * 3	-  paul
+ * 2	-  god
+ * 2	-  christ jesus
+ * 2	-  beseech thee
+ * 2	-  whom
+ * 2	-  unto thee
+ * 1	-  timothy
+ * 1	-  philemon
+ * 1	-  apphia
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+
+
+
+
+
+# NLP Analysis for Hebrews (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.198
+
+Subjectivity‡: 0.53555
+
+## Most Common Noun Phrases in Hebrews:
+
+ * 71	-  god
+ * 12	-  high priest
+ * 11	-  moses
+ * 10	-  abraham
+ * 9	-  who
+ * 9	-  thou
+ * 9	-  jesus
+ * 9	-  wherefore
+ * 9	-  christ
+ * 9	-  melchisedec
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for James (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.15518
+
+Subjectivity‡: 0.58114
+
+## Most Common Noun Phrases in James:
+
+ * 17	-  god
+ * 8	-  ye
+ * 6	-  behold
+ * 3	-  father
+ * 3	-  wherefore
+ * 3	-  thou
+ * 3	-  whole body
+ * 3	-  be
+ * 2	-  jesus christ
+ * 2	-  thou art
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 1 peter (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.1319
+
+Subjectivity‡: 0.58559
+
+## Most Common Noun Phrases in 1 peter:
+
+ * 39	-  god
+ * 10	-  christ
+ * 9	-  jesus christ
+ * 8	-  who
+ * 4	-  spirit
+ * 4	-  wherefore
+ * 3	-  father
+ * 3	-  likewise
+ * 3	-  amen
+ * 2	-  wherein
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 2 peter (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.173
+
+Subjectivity‡: 0.63098
+
+## Most Common Noun Phrases in 2 peter:
+
+ * 7	-  god
+ * 4	-  jesus christ
+ * 4	-  saviour jesus christ
+ * 3	-  wherefore
+ * 3	-  knowing
+ * 2	-  whereby
+ * 2	-  fervent heat
+ * 1	-  simon peter
+ * 1	-  precious faith
+ * 1	-  grace
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 1 john (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.30396
+
+Subjectivity‡: 0.60281
+
+## Most Common Noun Phrases in 1 john:
+
+ * 64	-  god
+ * 13	-  father
+ * 8	-  jesus christ
+ * 7	-  whosoever
+ * 6	-  spirit
+ * 5	-  eternal life
+ * 5	-  beloved
+ * 4	-  jesus
+ * 4	-  hereby
+ * 3	-  little
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 2 john (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.40242
+
+Subjectivity‡: 0.64697
+
+## Most Common Noun Phrases in 2 john:
+
+ * 4	-  god
+ * 4	-  father
+ * 2	-  jesus christ
+ * 2	-  christ
+ * 1	-  truth 's sake
+ * 1	-  grace
+ * 1	-  thy children
+ * 1	-  beseech thee
+ * 1	-  new commandment unto thee
+ * 1	-  full reward
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for 3 john (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.28824
+
+Subjectivity‡: 0.64118
+
+## Most Common Noun Phrases in 3 john:
+
+ * 3	-  beloved
+ * 2	-  god
+ * 1	-  gaius
+ * 1	-  thou mayest prosper
+ * 1	-  thy soul prospereth
+ * 1	-  thou walkest
+ * 1	-  thou doest
+ * 1	-  whatsoever thou doest
+ * 1	-  thy charity
+ * 1	-  thou shalt
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Jude (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.20581
+
+Subjectivity‡: 0.64965
+
+## Most Common Noun Phrases in Jude:
+
+ * 5	-  jesus christ
+ * 5	-  god
+ * 1	-  jude
+ * 1	-  james
+ * 1	-  father
+ * 1	-  mercy unto
+ * 1	-  beloved
+ * 1	-  common salvation
+ * 1	-  certain men crept
+ * 1	-  egypt
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+# NLP Analysis for Revelation (using the KJV translation)
+
+## Sentiment
+
+Polarity†: 0.18214
+
+Subjectivity‡: 0.49651
+
+## Most Common Noun Phrases in Revelation:
+
+ * 91	-  god
+ * 28	-  lamb
+ * 14	-  thou hast
+ * 12	-  loud voice
+ * 11	-  saith unto
+ * 10	-  amen
+ * 10	-  spirit
+ * 10	-  great city
+ * 9	-  behold
+ * 8	-  things saith
+
+
+† Polarity is measured on a scale of [-1.0, 1.0] and measures whether that language used by the author is negative, neutral, or positive.
+
+‡ Subjectivity is measured on a scale of [0.0, 1.0] and measures how subjective the text is (0.0 being very objective; 1.0 being very subjective).
+
